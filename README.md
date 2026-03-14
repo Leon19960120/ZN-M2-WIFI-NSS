@@ -1,6 +1,7 @@
 本想给兆能M2编译一个可以256M可以跑WiFi的固件(删除NSS),修改的配置文件,编译后的固件刷机还是不行.
 # 好像没把配置文件给注释掉。懒得再搞了。
 20260312:上传一个256M内存可用ZN-M2的WiFi固件 
+https://github.com/Leon19960120/ZN-M2-WIFI-NSS/blob/main/picture/ZN-M2-WiFi.png
 OpenWRT-CI
 
 官方版：
